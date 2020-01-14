@@ -1,6 +1,6 @@
 ---
 title: Built For Speed test asd asdsad
-subtitle: Awake is Built to Be Blazing Fast asd asdsa
+subtitle: Awake is Built to Be Blazing Fast asd asdsa deneme
 category:
   - About Awake
 author: Daniel Kelly sad
